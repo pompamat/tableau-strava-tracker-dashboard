@@ -57,4 +57,5 @@ To make the project more practical, I decided to build it using my own running d
 Replace the placeholder below with your own screenshot.
 ![Strava Tracker Dashboard](images/Dashboard Strava Tracker.png)
 ![Strava Tracker Dashboard](images/dashboard-strava-tracker.png)
+![Strava Tracker Dashboard](images/dashboard_strava_tracker.png)
 
