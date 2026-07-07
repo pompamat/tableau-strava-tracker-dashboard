@@ -1,11 +1,13 @@
 # 🏃 Running Performance Dashboard
 
-An interactive Power BI dashboard for analyzing personal sports activity with a focus on running performance. The dashboard provides insights into training habits, pace distribution, calorie expenditure, and monthly progress.
+An interactive Tableau dashboard built to analyze personal sports activity data exported from Strava. The dashboard tracks key performance indicators, training patterns, pace distribution, calorie expenditure, and progress over time through interactive visualizations.
+
+An interactive Tableau dashboard for analyzing personal sports activity with a focus on running performance.
 
 ## 🚀 Features
 
-- 🏃 Running performance summary
-  - Total runs
+- 🏃 Key Performance Indicators (KPIs)
+  - Total number of runs
   - Average distance
   - Average duration
   - Average speed
@@ -17,8 +19,15 @@ An interactive Power BI dashboard for analyzing personal sports activity with a 
 - ❤️ Heart rate vs. running pace visualization
 - 📆 Year filtering for historical comparisons
 
+## 📊 Live Tableau Public Dashboard
+
+You can explore the interactive Tableau Public version of this dashboard here:
+
+🔗 [View Strava Tracker Dashboard](https://public.tableau.com/views/StravaTracker_17813458492570/Dashboard4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 ## 📊 Dashboard Preview
-The screenshot below presents the completed dashboard, highlighting the main KPIs, visualizations, and insights extracted from Strava data.
+The screenshot below showcases the completed Tableau dashboard, highlighting the main KPIs, visualizations, and insights derived from Strava activity data.
 ![Strava Tracker Dashboard](images/dashboard_strava_tracker.png)
 
 ## 📂 Repository Structure
@@ -39,11 +48,11 @@ The screenshot below presents the completed dashboard, highlighting the main KPI
 
 This project was created to practice:
 
-- Power BI dashboard design
-- Data modeling
-- DAX calculations
+- Tableau dashboard design
+- Calculated fields and data analysis
 - Interactive reporting
 - Data visualization best practices
 
 To make the project more practical, I decided to build it using my own running data exported from Strava. Rather than analyzing a generic dataset, I wanted to create a dashboard that I could genuinely use to track my progress, monitor training trends, and better understand my performance over time. This project is both a portfolio piece and a personal tool that I intend to expand with additional analyses and features in the future.
+
 
